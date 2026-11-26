@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/fchc.jpg</video:thumbnail_loc>
+      <video:title>Forever Champion Health Centre (10-second preview)</video:title>
+      <video:description>AI motion graphics brand reel for Forever Champion Health Centre.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/fchc.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/leap.jpg</video:thumbnail_loc>
+      <video:title>Leap Organic Healthcare (10-second preview)</video:title>
+      <video:description>Product promo video for Leap Organic Healthcare.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/leap.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/sci.jpg</video:thumbnail_loc>
+      <video:title>Sciatica health tip (10-second preview)</video:title>
+      <video:description>Educational motion graphics video explaining sciatica.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/sci.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/scifchc.jpg</video:thumbnail_loc>
+      <video:title>Sciatica explainer, Forever Champion (10-second preview)</video:title>
+      <video:description>Realistic AI presenter video about sciatica for Forever Champion Health Centre.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/scifchc.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/wc.jpg</video:thumbnail_loc>
+      <video:title>Sciatica explainer, Wellness Connect (10-second preview)</video:title>
+      <video:description>Realistic AI presenter video about sciatica for Wellness Connect.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/wc.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/hlb.jpg</video:thumbnail_loc>
+      <video:title>HLB Plux digital antenna (10-second preview)</video:title>
+      <video:description>Vertical product advertisement video for the HLB Plux digital indoor antenna.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/hlb.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/chadoff.jpg</video:thumbnail_loc>
+      <video:title>Chadoff Collections (10-second preview)</video:title>
+      <video:description>Vertical fashion and fragrance advertisement for Chadoff Collections.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/chadoff.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://thebrandifi.com/work/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://thebrandifi.com/assets/posters/wl.jpg</video:thumbnail_loc>
+      <video:title>World Link HR (10-second preview)</video:title>
+      <video:description>Talent pool promotional video for World Link HR.</video:description>
+      <video:content_loc>https://thebrandifi.com/assets/videos/wl.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-11-16</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>

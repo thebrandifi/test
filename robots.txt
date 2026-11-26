@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thebrandifi.com/sitemap.xml
+Sitemap: https://thebrandifi.com/sitemap-video.xml
